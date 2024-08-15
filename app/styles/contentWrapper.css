@@ -1,0 +1,10 @@
+.borderDashboard
+{
+    border: 2px solid  #D3D3D3;
+    border-radius: 7px;
+}
+
+.tableHeader {
+    background-color: #48bb78; /* Tailwind's green-400 */
+    color: white;
+}
